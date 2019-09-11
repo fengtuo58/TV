@@ -1,0 +1,128 @@
+ls
+cd jenkins/
+ls
+ls
+git status
+git add buffer.groovy 
+git status
+ls
+git status
+git add .
+git commit -m"note param ok except Test Report Link"
+git push
+git status
+git status
+git add .
+git commit -m"report ok"
+git push
+git status
+git add .
+git commit -m"fix  regressLinkjobID"
+git status
+git pusj
+git push
+git log
+ls
+ls
+ls
+git status
+git status
+ls
+git status
+git add .
+git status
+git  commit -m"ok"
+git push
+Changes to be committed:
+reset
+clear
+sftp root@xid-mapdata-01
+sftp root@xid-mapdata-01
+git status
+git add .
+git status
+git commit -m"add job config and jenkins"
+create mode 100644 JenkinsConfig.xml
+git push
+git pull
+git commit --amend --reset-author
+ls
+lsd
+ls
+git status
+git status
+ls
+git status
+git statrus
+git statusa
+cd  d:
+ls
+cd ../..
+ls
+mkdir gitHub
+cd gitRepo/
+cd ../gitHub/
+ks
+ls
+ks
+ls
+cd ../..
+ls
+cd jekins/
+ls
+cd script/
+sl
+ls
+cd jenkins/
+ls
+git statis
+git status
+git add .
+git commit -m"	demo ok"
+git reset HEAD~1
+git status
+git clean -df
+git status
+git add .
+git commit -m"demo ok"
+git push
+git config --global --edit
+git status
+git add .
+git commmit -m"deal ec exeption"
+git commit -m"deal ec exeption"
+git push
+After doing this, you may fix the identity used for this commit with:
+Your name and email address were configured automatically based
+lsd
+ls
+git status
+git add .
+git commit -m"email format adjust"
+git push
+git pull
+git statys
+git status
+git add .
+git commit -m"ok with demo"
+git pusj
+git push
+git pull
+ls
+git status
+git add .
+git commit -m"modify ok"
+git push
+git 
+git status
+git add .
+git commit -m"finally modify"
+git push
+git status
+git add .
+git commit -m"modify"
+git push
+git add .
+git commit -m"modify last"
+git push
+git status

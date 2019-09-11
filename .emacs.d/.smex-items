@@ -1,0 +1,28 @@
+
+;; ----- smex-history -----
+(
+ eshell
+ magit-log
+ magit-commit
+ magit-remote-add
+ magit-status
+ goto-line
+ eval-buffer
+)
+
+;; ----- smex-data -----
+(
+ (eshell . 31)
+ (kill-buffer . 2)
+ (rename-buffer . 1)
+ (eval-buffer . 27)
+ (magit-log . 3)
+ (highlight-phrase . 1)
+ (find-function . 2)
+ (browse-url-w3 . 3)
+ (magit-status . 6)
+ (magit-commit . 5)
+ (goto-line . 2)
+ (dired-man . 1)
+ (magit-remote-add . 1)
+)

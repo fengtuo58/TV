@@ -1,0 +1,60 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Sep  2 09:39:18 2019
+;; Desktop file format version 208
+;; Emacs version 26.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23916 29382 66376 0) (desktop . "208") "tfeng@T480-TFENG" nil nil ((((minibuffer . t) (undecorated) (skip-taskbar) (font-backend uniscribe gdi) (font . "-outline-Courier New-normal-normal-normal-mono-20-*-*-*-c-*-iso8859-1") (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#eaeaea") (background-color . "#000000") (mouse-color . "black") (border-color . "#424242") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (no-focus-on-map) (no-accept-focus) (no-special-glyphs) (alpha) (menu-bar-lines . 0) (tool-bar-lines . 0) (height . 49) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (fullscreen . fullboth) (z-group) (visibility . t) (display-type . color) (background-mode . dark) (cursor-color . "#d54e53") (environment) (fullscreen-restore) (frameset--id . "7950-58E9-C414-B179") (frameset--mini t . t) (modeline . t) (unsplittable) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top) (width . 158) (left . 0) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 4) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 88) (min-pixel-width . 120) (min-pixel-height-ignore . 66) (min-pixel-width-ignore . 48) (min-pixel-height-safe . 22) (min-pixel-width-safe . 24)) leaf (pixel-width . 1920) (pixel-height . 1058) (total-width . 160) (total-height . 48) (normal-height . 1.0) (normal-width . 1.0) (buffer "jenkinsfile" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 53283) (start . 50781))))])
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history '("eshell"))
+(setq face-name-history '("hi-yellow"))
+(setq file-name-history '("d:/jekins/script/jenkins/jen.groovy" "~/.emacs.d/custom.el" "d:/jekins/script/jenkins/jenkinsfile" "~/.emacs.d/custom.el" "d:/jekins/script/jenkins/jenkinsfile" "~/Desktop/fefre.html" "d:/jekins/script/jenkins/jenkinsfile" "d:/jekins/script/jenkins/frer" "d:/jekins/script/jenkins/buffer.groovy" "~/.emacs.d/custom.el" "~/.emacs.d/README.md" "~/.emacs.d/lisp/highlight-symbol.el" "d:/emacs/emacs-26.2-x86_64/share/emacs/26.2/lisp/menu-bar.el" "d:/emacs/emacs-26.2-x86_64/share/emacs/26.2/lisp/window.el" "d:/jekins/script/jenkins/.git/COMMIT_EDITMSG" "d:/jekins/script/jenkins/SendOk.html" "d:/jekins/script/jenkins/.git/COMMIT_EDITMSG" "~/.emacs.d/custom.el" "~/.emacs.d/README.md" "~/.emacs.d/lisp/highlight-symbol.el" "d:/emacs/emacs-26.2-x86_64/share/emacs/26.2/lisp/menu-bar.el" "d:/emacs/emacs-26.2-x86_64/share/emacs/26.2/lisp/window.el" "d:/jekins/script/jenkins/.git/COMMIT_EDITMSG" "d:/jekins/script/jenkins/SendOk.html" "d:/jekins/script/jenkins/SendOk.html" "c:/Users/tfeng/.emacs.d/custom.el" "~/.emacs.d/custom.el" "d:/jekins/script/jenkins/.git/COMMIT_EDITMSG" "~/.emacs.d/README.md" "~/.emacs.d/lisp/highlight-symbol.el" "d:/emacs/emacs-26.2-x86_64/share/emacs/26.2/lisp/menu-bar.el" "d:/emacs/emacs-26.2-x86_64/share/emacs/26.2/lisp/window.el" "d:/jekins/script/jenkins/mailDisplay.html" "d:/jekins/script/jenkins/.git/COMMIT_EDITMSG" "c:/Users/tfeng/.emacs.d/init.el" "~/.emacs.d/custom.el" "~/.emacs.d/README.md" "~/.emacs.d/lisp/highlight-symbol.el" "d:/emacs/emacs-26.2-x86_64/share/emacs/26.2/lisp/menu-bar.el" "d:/emacs/emacs-26.2-x86_64/share/emacs/26.2/lisp/window.el" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "~/.emacs.d/README.md" "~/.emacs.d/lisp/highlight-symbol.el" "d:/emacs/emacs-26.2-x86_64/share/emacs/26.2/lisp/menu-bar.el" "~/.emacs.d/init.el" "d:/emacs/emacs-26.2-x86_64/share/emacs/26.2/lisp/window.el" "d:/emacs/emacs-26.2-x86_64/share/emacs/26.2/lisp/menu-bar.el" "d:/emacs/emacs-26.2-x86_64/share/emacs/26.2/lisp/window.el" "~/.emacs.d/custom.el" "~/.emacs.d/README.md" "~/.emacs.d/lisp/highlight-symbol.el" "~/.emacs.d/init.el" "~/.emacs.d/custom.el" "~/.emacs.d/README.md" "~/.emacs.d/init.el" "~/.emacs.d/lisp/highlight-symbol.el" "c:/Users/tfeng/.emacs.d/lisp/highlight-symbol.el" "~/.emacs.d/custom.el" "~/.emacs.d/README.md" "~/.emacs.d/init.el" "~/.emacs.d/eshell/alias" "~/.emacs.d/custom.el" "~/.emacs.d/README.md" "~/.emacs.d/init.el" "c:/Users/tfeng/.emacs.d/README.md" "~/.emacs.d/custom.el" "~/.emacs.d/custom.el"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq ivy-history '("jenkinsfile" "jen.groovy" "jenkinsfile" "jen" "s" "jenkinsfile" "esh" "magit: jenkins" "buffer.groovy" "buffer.groovy" "buffer.groovy" "*eshell*" "bu" "buffer.groovy" "jenkinsf" "SendOk.html" "buffer.groovy" "jen.groovy" "buffer.groovy" "*eshell*" "jen.groovy" "jenkin" "sc" "*eshell*" "window.el" "init.el" "kill thi" "split-win" "in" "highlight-symbol.el" "jen.groovy" "*eshell*" "ini" "li" "eshell" "eshe" "m"))
+(setq magit-revision-history nil)
+(setq minibuffer-history '("154" "528" "www.baidu.com" "http://baidu.com" "http://google.com"))
+(setq org-clock-history nil)
+(setq org-refile-history nil)
+(setq org-tags-history nil)
+(setq query-replace-history nil)
+(setq read-expression-history nil)
+(setq regexp-history '("message"))
+(setq regexp-search-ring nil)
+(setq register-alist '((48 . "\ndef RoadSectionBig(date, dateSet)\n{\n\n    tempDate = date.split('\\\\.')[0]+date.split('\\\\.')[1] +date.split('\\\\.')[2]+date.split('\\\\.')[3]\n    println \"2222\" + tempDate\n    BigInteger datesource = new BigInteger(tempDate)\n    def Biggst = true\n    for( String values : dateSet){\n        tempvalues = values.split('\\\\.')\n        compareString = tempvalues[0] + tempvalues[1] + tempvalues[2] + tempvalues[3]\n        BigInteger dateSetItem = new BigInteger(compareString)\n        if (datesource < dateSetItem)\n            Biggst = false\n    }\n    return Biggst\n\n}\ndef GettmcToTtlMappingDataUrl(url){\n    MaxDate =\"\"\n    version = sh(returnStdout: true, script: \" curl  ${url}/ | grep -o -E '([0-9]{4}\\\\.[0-9]{2}\\\\.[0-9]{2}\\\\.[0-9]{6})' \")\n    //println \"version: \" + version\n    dateSet = version.split('\\n')\n    //     println \"versionNumber: \" + versionNumber[1]\n    println \"1111\" +version.length()\n    for( String values : dateSet){\n        if (RoadSectionBig(values, dateSet))\n            MaxDate = values\n    }\n    version1 = sh(returnStdout: true, script: \"\"\" curl  ${url}/ | grep -o -E \"TT-*-To-OSM-${MaxDate}\"  \"\"\")\n    return version1\n    //    return findMaxDate(versionNumber)\n\n}\n")))
+(setq search-ring '("jira" "div" "prioritized release scope" "gettmctottlmappingdataurl" "head" "br" "component" "major changes" "table" "service" "jira" "owner" "date" "mouthset" "big" "inter"))
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "d:/jekins/script/jenkins/jenkinsfile"
+  "jenkinsfile"
+  'groovy-mode
+  '(hi-lock-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode groovy-electric-mode company-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode)
+  53283
+  '(51063 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 23916 28707 12006 0) (buffer-file-coding-system . utf-8-dos) (overwrite-mode))
+  '((mark-ring (51063 1 11404 9624 7370 4570 2460 666 73199 53328 1 30 49586 49892 549 73199))))
+
+(desktop-create-buffer 208
+  "d:/jekins/script/jenkins/jen.groovy"
+  "jen.groovy"
+  'groovy-mode
+  '(hi-lock-mode immortal-scratch-mode auto-compile-on-load-mode projectile-mode diff-hl-mode whitespace-cleanup-mode guide-key-mode hes-mode whole-line-or-region-local-mode beacon-mode global-auto-revert-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode symbol-overlay-mode rainbow-delimiters-mode groovy-electric-mode company-mode ivy-mode counsel-mode flycheck-mode anzu-mode dimmer-mode)
+  1876
+  '(6781 nil)
+  nil
+  nil
+  '((show-trailing-whitespace . t) (buffer-display-time 23911 13486 112507 0) (buffer-file-coding-system . undecided-dos) (overwrite-mode))
+  '((mark-ring (675 6001 696 676 6813 7378 271 102 7378 271 7378 5096 5066 5066 4856 4650))))
+
